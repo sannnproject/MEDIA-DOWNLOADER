@@ -113,7 +113,7 @@ types/
 # Installation
 
 ```bash
-git clone <repository>
+git clone https://github.com/sannnproject/MEDIA-DOWNLOADER
 cd MEDIA-DOWNLOADER
 npm install
 npm run dev
