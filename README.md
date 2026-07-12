@@ -148,4 +148,4 @@ The project is ready to deploy on Vercel without additional configuration.
 
 # License
 
-MIT
+MIT License
