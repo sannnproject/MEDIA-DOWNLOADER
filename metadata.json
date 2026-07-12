@@ -1,0 +1,6 @@
+{
+  "name": "MEDIA Downloader",
+  "description": "All in one media downloader for multiple platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
