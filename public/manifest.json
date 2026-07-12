@@ -1,0 +1,25 @@
+{
+  "name": "MEDIA Downloader",
+  "short_name": "MEDIA Downloader",
+  "theme_color": "#E2E8F0",
+  "background_color": "#E2E8F0",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "description": "Download videos and media from multiple platforms.",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192 any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512 any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
